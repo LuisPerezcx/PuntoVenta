@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ControlVentasFinal:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="ControlVentas.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ControlVentas" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Librerias/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Librerias/postgresql-42.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
